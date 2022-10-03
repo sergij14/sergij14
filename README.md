@@ -1,1 +1,1 @@
-JavaScript Developer with hands-on experience in building SPA web applications. Highly skilled in HTML/CSS/JavaScript, plus modern libraries and frameworks.
+Software Developer with hands-on experience in building and maintaining web applications. Proficient in JavaScript, TypeScript and React, plus modern libraries and frameworks.
