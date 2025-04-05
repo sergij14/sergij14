@@ -1,1 +1,1 @@
-Front-End Engineer with years of experience in designing, developing, and optimizing high-performance web applications. Leveraging JavaScript, TypeScript, React.js, and Node.js to deliver innovative and scalable solutions.
+Software Engineer with years of experience in designing, developing, and optimizing high-performance web applications. Leveraging JavaScript, TypeScript, React.js, and Node.js to deliver innovative and scalable solutions.
