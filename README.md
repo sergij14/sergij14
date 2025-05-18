@@ -1,1 +1,1 @@
-Software Engineer with years of experience in designing, developing, and optimizing high-performance web applications.
+Software Engineer with 6+ years of experience delivering high-performance, scalable web applications. Proven expertise in leading front-end architecture, migrating legacy systems, and building full-stack solutions using the MERN stack. Strong focus on user experience, code quality, and team collaboration. Proficient in JavaScript, TypeScript, React and Node.js.
