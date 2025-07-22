@@ -1,1 +1,1 @@
-Software Engineer with years of experience designing and developing modern web applications. I focus on creating user-friendly, efficient, and maintainable solutions. Working primarily with React, TypeScript, and Node.js - and bring a solid understanding of backend systems and team collaboration.
+Software Engineer with years of experience designing and developing modern web applications. I focus on creating user-friendly, efficient, and maintainable solutions. Working primarily with JavaScript, TypeScript, React and Node.js.
